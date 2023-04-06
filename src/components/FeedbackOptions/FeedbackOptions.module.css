@@ -1,0 +1,11 @@
+.btn {
+  margin: 5px;
+  text-transform: capitalize;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: grey;
+  color: white;
+}

@@ -1,0 +1,13 @@
+.div {
+  margin-left: 10px;
+}
+
+.good {
+  color: green;
+}
+.neutral {
+  color: orange;
+}
+.bad {
+  color: red;
+}
